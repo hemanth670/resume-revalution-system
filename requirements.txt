@@ -1,0 +1,3 @@
+PyMuPDF
+docx2txt
+scikit-learn
