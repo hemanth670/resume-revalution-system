@@ -1,3 +1,7 @@
-PyMuPDF
-docx2txt
+streamlit
+pdfplumber
+pandas
+numpy
 scikit-learn
+nltk
+
